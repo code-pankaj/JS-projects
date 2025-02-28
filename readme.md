@@ -35,7 +35,7 @@ This repository contains my JavaScript projects, organized by difficulty level: 
 -   **Notes** By this project I learned about nginx and basics of how server works
 
 
-### Mini Nginx Server
+### Simple Event Logger
 
 -   **Description:** A simple event logger using event driven architecture.
 -   **Problem Statement:** It was a learning project from Hitesh Chaudhary Web Dev Course on Udemy.
