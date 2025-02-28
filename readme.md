@@ -26,6 +26,14 @@ This repository contains my JavaScript projects, organized by difficulty level: 
 -   **Status** Completed 
 -   **Notes** By this project I learned to use 'fs' in node projects
 
+
+### Mini Nginx Server
+
+-   **Description:** A very basic nginx server.
+-   **Problem Statement:** It was a learning project from Hitesh Chaudhary Web Dev Course on Udemy
+-   **Status** Completed 
+-   **Notes** By this project I learned about nginx and basics of how server works
+
 ## Intermediate Projects 🧑‍💻
 
 *(To be added) 🚧*
