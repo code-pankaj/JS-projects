@@ -19,6 +19,13 @@ This repository contains my JavaScript projects, organized by difficulty level: 
 -   **Status:** Completed ✅
 -   **Notes:** This project helped me understand basic DOM manipulation and event handling in JavaScript 💡.
 
+### Todo Terminal 
+
+-   **Description:** A basic todo terminal app that can add, remove, list tasks using 'node:fs'.
+-   **Problem Statement:** It was a learning project from Hitesh Chaudhary Web Dev Course on Udemy
+-   **Status** Completed 
+-   **Notes** By this project I learned to use 'fs' in node projects
+
 ## Intermediate Projects 🧑‍💻
 
 *(To be added) 🚧*
